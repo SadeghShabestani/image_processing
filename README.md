@@ -1,8 +1,12 @@
+<div align="center">
+  
 # image_processing
+
 ![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33322f4f70656e43565f4c6f676f5f776974685f746578745f7376675f76657273696f6e2e7376672f32373070782d4f70656e43565f4c6f676f5f776974685f746578745f73](https://github.com/SadeghShabestani/image_processing/assets/80578594/d1f5a94a-a530-414b-ba8c-c143b2d45848)
 
 Repository for Python scripts related to image processing tasks. Includes various scripts for image manipulation, filtering, transformation, and analysis using libraries such as OpenCV and NumPy. Explore different techniques for processing and enhancing images programmatically.
 
+</div>
 
 # Assignment 26
 ## tamrin_1
