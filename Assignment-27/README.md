@@ -1,19 +1,24 @@
-# Assignment 26
+# Assignment 27
 ## tamrin_1
-![Chessboard](https://github.com/SadeghShabestani/image_processing/assets/80578594/7148698e-be1f-4ca4-b3b8-65aa7aa5a6db)
+### Original Photo
+![Original Photo](https://github.com/SadeghShabestani/image_processing/assets/80578594/caa2a6e5-12fb-4d44-987b-fc4768598746)
+
+### Inverted Photo
+![Inverted Photo](https://github.com/SadeghShabestani/image_processing/assets/80578594/be79dc5e-cdeb-4782-af79-0440e6002a3e)
 
 
 ## tamrin_2
 ### Original Photo
-![Original Photo](https://github.com/SadeghShabestani/image_processing/assets/80578594/6d337122-fb74-4787-9946-f76cf02576dc)
-### Inverted Photo
-![Inverted Photo](https://github.com/SadeghShabestani/image_processing/assets/80578594/2960ca4b-1021-4d93-b301-8b2f2b9d1b72)
+![Original Photo](https://github.com/SadeghShabestani/image_processing/assets/80578594/7d5e5d62-9813-445d-a111-4dc80e592f43)
 
+### Inverted Photo
+![Inverted Photo](https://github.com/SadeghShabestani/image_processing/assets/80578594/c5c4ab4a-2a1e-41d9-a3af-116d458df14b)
 
 
 ## tamrin_3
 ### Original Photo
-![Original Photo](https://github.com/SadeghShabestani/image_processing/assets/80578594/397f4193-19cf-4998-9c83-4026274e6e03)
+![Original Photo]()
+![view_orginal](https://github.com/SadeghShabestani/image_processing/assets/80578594/40002003-98c8-487b-932e-aa0aeaa4ba48)
 
 ### Inverted Photo
 ![Inverted Photo](https://github.com/SadeghShabestani/image_processing/assets/80578594/e729d907-ea29-4308-9c45-d97e233fda0c)
