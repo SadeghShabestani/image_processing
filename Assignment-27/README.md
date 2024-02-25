@@ -17,22 +17,7 @@
 
 ## tamrin_3
 ### Original Photo
-![Original Photo]()
-![view_orginal](https://github.com/SadeghShabestani/image_processing/assets/80578594/40002003-98c8-487b-932e-aa0aeaa4ba48)
+![Original Photo](https://github.com/SadeghShabestani/image_processing/assets/80578594/40002003-98c8-487b-932e-aa0aeaa4ba48)
 
 ### Inverted Photo
-![Inverted Photo](https://github.com/SadeghShabestani/image_processing/assets/80578594/e729d907-ea29-4308-9c45-d97e233fda0c)
-
-## tamrin_4
-![character_T](https://github.com/SadeghShabestani/image_processing/assets/80578594/67a3649c-050b-49c4-8bee-1a8f07f9b9c1)
-
-## tamrin_5
-![Gradient](https://github.com/SadeghShabestani/image_processing/assets/80578594/ee16d5bc-d4ed-4b5f-b852-731beb6c7779)
-
-## tamrin_6
-### Original Photo
-![Original Photo](https://github.com/SadeghShabestani/image_processing/assets/80578594/477c6678-b032-40b5-b074-ceee5009ef10)
-
-### Inverted Photo
-![Inverted Photo](https://github.com/SadeghShabestani/image_processing/assets/80578594/0be6fcd6-5929-435c-b7fd-47bedd06beba)
-
+![Inverted Photo]([https://github.com/SadeghShabestani/image_processing/assets/80578594/e729d907-ea29-4308-9c45-d97e233fda0c](https://github.com/SadeghShabestani/image_processing/assets/80578594/c1f76274-6794-4e49-bb2a-18b2ea09ad60))
