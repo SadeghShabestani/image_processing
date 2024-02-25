@@ -20,4 +20,4 @@
 ![Original Photo](https://github.com/SadeghShabestani/image_processing/assets/80578594/40002003-98c8-487b-932e-aa0aeaa4ba48)
 
 ### Inverted Photo
-![Inverted Photo]([https://github.com/SadeghShabestani/image_processing/assets/80578594/e729d907-ea29-4308-9c45-d97e233fda0c](https://github.com/SadeghShabestani/image_processing/assets/80578594/c1f76274-6794-4e49-bb2a-18b2ea09ad60))
+![Inverted Photo](https://github.com/SadeghShabestani/image_processing/assets/80578594/ebf2d9be-21cc-4a7d-aeba-9f28d5eef05e)
