@@ -1,6 +1,4 @@
-
-https://github.com/SadeghShabestani/image_processing/assets/80578594/17b8552b-dc99-4406-92b6-4e7fddba79bf
-# Assignment 3
+# Assignment 28
 
 <table>
   <tr>
