@@ -6,25 +6,28 @@
     <th>Image</th>
   </tr>
   <tr>
-    <td align="center" ><a href="https://github.com/SadeghShabestani/image_processing/tree/main/Assignment-30/snapchat_filter">snapchat_filter</a></td>
-    <td align="center" >Fruit And Vegetable Snapchat Filter</td>
-    <td align="center"><img src="https://github.com/SadeghShabestani/image_processing/assets/80578594/35a1f940-3ffe-4b09-9b87-f35e03792fa5" width="30%" height="30%"> </td>
+    <td align="center" ><a href="https://github.com/SadeghShabestani/image_processing/tree/main/Assignment-31/Histogram">Histogram</a></td>
+    <td align="center" >Get the histogram of the image.</td>
+    <td align="center"><img src="https://github.com/SadeghShabestani/image_processing/assets/80578594/178c35b3-560b-43dd-8f15-4cf6393a219f" width="30%" height="30%"> </td>
   </tr>
   <tr>
-    <td align="center" ><a href="https://github.com/SadeghShabestani/image_processing/tree/main/Assignment-30/rotate%D9%80photo">rotateـphoto</a></td>
-    <td align="center" >Rotate your phone</td>
-    <td align="center"><img src="https://github.com/SadeghShabestani/image_processing/assets/80578594/19886701-41ff-41ff-81aa-68be3638667d" width="30%" height="30%" >
+    <td align="center" ><a href="https://github.com/SadeghShabestani/image_processing/tree/main/Assignment-31/foreground_focus">foreground_focus</a></td>
+    <td align="center" >Foreground focus, Blur background 🌷.</td>
+    <td align="center"><img src="https://github.com/SadeghShabestani/image_processing/assets/80578594/1ace35bd-358a-4bce-9ad1-31724b97eeb8" width="30%" height="30%" >
   </tr>
   <tr>
-    <td align="center" ><a href="https://github.com/SadeghShabestani/image_processing/tree/main/Assignment-30/align_face">Align Face</a></td>
-    <td align="center" >Smooth the photo</td>
-    <td align="center"><img src="https://github.com/SadeghShabestani/image_processing/assets/80578594/cc8b07dc-97df-402d-9b70-695f890c491b" width="30%" height="30%" >
+    <td align="center" ><a href="https://github.com/SadeghShabestani/image_processing/tree/main/Assignment-31/edge_detection">edge_detection</a></td>
+    <td align="center" >Use Laplacian Operator to detect edges of image.</td>
+    <td align="center"><img src="https://github.com/SadeghShabestani/image_processing/assets/80578594/f26ef3cf-5891-4762-bc4d-803c7db55bd0" width="30%" height="30%" >
   </tr>
   <tr>
-    <td align="center" ><a href="https://github.com/SadeghShabestani/image_processing/tree/main/Assignment-30/filter_lips_eyes">filter_lips_eyes</a></td>
-    <td align="center" >Big eyes and lips filter</td>
-    <td align="center"><img src="https://github.com/SadeghShabestani/image_processing/assets/80578594/4bfc9f97-25d3-40e1-8a52-9335cf88dd59" width="30%" height="30%" >
+    <td align="center" ><a href="https://github.com/SadeghShabestani/image_processing/tree/main/Assignment-31/vertical_and_horizontal_edge_detection">vertical_and_horizontal_edge_detection</a></td>
+    <td align="center" >Vertical and horizontal edge detection.</td>
+    <td align="center"><img src="https://github.com/SadeghShabestani/image_processing/assets/80578594/13d3b246-8ec6-4c6e-ab6d-b7dd9185228c" width="30%" height="30%" >
   </tr>
-
-
+  <tr>
+    <td align="center" ><a href="https://github.com/SadeghShabestani/image_processing/tree/main/Assignment-31/noise_reduction">noise_reduction</a></td>
+    <td align="center" >Average filter using convolution.</td>
+    <td align="center"><img src="https://github.com/SadeghShabestani/image_processing/assets/80578594/7e0d1025-216c-41ea-beac-9b70fea53c7e" width="30%" height="30%" >
+  </tr>
 </table
