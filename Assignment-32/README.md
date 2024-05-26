@@ -52,7 +52,12 @@ The "histogram_equalization" directory contains exercises for histogram equaliza
 
 ### Output Examples:
 
-![Histogram Equalization Output](histogram_equalization/output/output_example.jpg)
+![Histogram Equalization Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/ebafd92f-8673-4502-acfc-4d756bfbf996)
+![Histogram Equalization Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/af866e98-53ff-4e87-b254-5d4fe1f7da44)
+![Histogram Equalization Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/b4968d61-55d8-4102-b886-7afc99b7d92e)
+![Histogram Equalization Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/aa9eeb29-a8f9-406e-b802-253f32260ee0)
+![Histogram Equalization Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/8cf00021-4936-4e3e-a052-ec12ac29590f)
+![Histogram Equalization Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/e7c4f772-1026-4072-83f9-598af5779e17)
 
 ---
 
