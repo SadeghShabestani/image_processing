@@ -15,7 +15,12 @@ The "convolution_2D" directory contains exercises related to 2D convolution filt
 
 ### Output Examples:
 
-![Convolution 2D Output](convolution_2D/output/output_example.jpg)
+![Convolution 2D Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/25e6bd4f-f71a-4c77-95a9-965bcbfe4e2e)
+![Convolution 2D Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/9e87f43d-f055-45bc-9c2b-2f91af7230e1)
+![Convolution 2D Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/6fc01771-a5c7-4e33-b86b-d2f6f9721103)
+![Convolution 2D Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/69775534-7cc9-454e-a49d-9ad93ee0f43c)
+![Convolution 2D Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/c8c4fc49-232c-45eb-b6cd-20d8d13fa563)
+
 
 ## Filter Average
 
