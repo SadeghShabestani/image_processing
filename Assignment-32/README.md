@@ -28,7 +28,9 @@ The "filter_average" directory contains exercises focusing on averaging filters.
 
 ### Output Examples:
 
-![Filter Average Output](filter_average/output/output_example.jpg)
+![Filter Average Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/e5d4e722-a794-4925-a760-b0f652e4c5f9)
+![Filter Average Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/0800837d-8ae7-4659-a5cf-2c0ce7268c9f)
+
 
 ## Filter Median
 
@@ -36,7 +38,13 @@ The "filter_median" directory contains exercises related to median filters. It s
 
 ### Output Examples:
 
-![Filter Median Output](filter_median/output/output_example.jpg)
+
+![Filter Median Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/f6f636a8-bb39-41d6-9ef1-2eccee019bcd )
+![Filter Median Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/4164b394-c860-4436-b43f-c59650e4e0af)
+![Filter Median Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/8b31ed87-c526-4118-951a-4987eba58f21)
+![Filter Median Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/179de65e-621f-4b82-b160-c775adb84bbb)
+![Filter Median Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/7e290f99-e02e-481d-96e0-ba9c36c02513)
+![Filter Median Output](https://github.com/SadeghShabestani/image_processing/assets/80578594/b6b94230-6b06-4d1d-bb74-d61e6cbdd230)
 
 ## Histogram Equalization
 
