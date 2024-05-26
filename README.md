@@ -5,6 +5,7 @@ Welcome to the **Breadcrumbs** repository! This repository contains a series of 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Directory Structure](#directory-structure)
 - [Exercises](#exercises)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
@@ -17,29 +18,6 @@ Image processing is a fundamental part of computer vision and plays a crucial ro
 ## Directory Structure
 
 The directory structure of this repository is organized as follows:
-
-ChatGPT
-
-Certainly! Here's the markdown code for the README:
-
-markdown
-
-# Breadcrumbs - Image Processing Exercises
-
-Welcome to the **Breadcrumbs** repository! This repository contains a series of exercises and projects related to image processing. Each exercise is designed to help you learn and practice various image processing techniques using Python and OpenCV.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Directory Structure](#directory-structure)
-- [Exercises](#exercises)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-Image processing is a fundamental part of computer vision and plays a crucial role in various applications such as medical imaging, robotics, surveillance, and more. This repository aims to provide hands-on exercises to enhance your understanding of image processing algorithms, techniques, and libraries.
 
 ## Exercises
 
